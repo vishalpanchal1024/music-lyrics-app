@@ -1,4 +1,4 @@
-# music_app
+## Music Lyrics App
 
 A new Flutter project.
 
